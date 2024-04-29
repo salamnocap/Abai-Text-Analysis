@@ -27,7 +27,6 @@ archive.zip
 .cache
 *.pdf
 *.pptx
-*.txt
 
 # macOS
 .DS_Store
@@ -36,3 +35,5 @@ archive.zip
 data/
 
 models/
+
+books/
