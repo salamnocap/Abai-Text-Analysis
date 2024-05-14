@@ -26,6 +26,8 @@ The "PATH OF ABAI (PART I & PART II) TEXT ANALYSIS" project focuses on analyzing
     
     - **Sentiment Analysis.ipynb:** This notebook performs sentiment analysis to evaluate the overall sentiment of each translation.
     
+    - **Emotion Analysis.ipynb:** This notebook performs emotion analysis to evaluate the overall emotions of each translation.
+    
     - **Readability Analysis.ipynb:** This notebook computes readability scores to assess the complexity and readability of the translated texts.
 
 ---
